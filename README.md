@@ -2,7 +2,7 @@
 
 ### About me
 
-- 📖: I'm currently studying at Katholic University Leuven in Belgium.
+- 📖: I'm currently studying at the Catholic University Leuven in Belgium.
 - 📸: My passions are design, coding and photography
 - 🥾: I love to sport and be outdoors
 
