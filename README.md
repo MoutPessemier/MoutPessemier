@@ -24,7 +24,9 @@
 [twitter]: https://twitter.com/MoutPessemier
 [linkedin]: https://www.linkedin.com/in/moutpessemier/
 <br />
-
-![MoutPessemier's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoutPessemier&count_private=true&theme=onedark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoutPessemier&layout=compact&count_private=true&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img alt="MoutPessemier's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MoutPessemier&count_private=true&theme=onedark&show_icons=true" />
+</p>
+<p align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoutPessemier&layout=compact&count_private=true&theme=onedark&show_icons=true" />
+</p>
