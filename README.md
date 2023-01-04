@@ -23,3 +23,8 @@
 [youtube]: https://www.youtube.com/user/TheSpookyCommando
 [twitter]: https://twitter.com/MoutPessemier
 [linkedin]: https://www.linkedin.com/in/moutpessemier/
+<br />
+
+![MoutPessemier's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoutPessemier&count_private=true&theme=onedark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoutPessemier&layout=compact&count_private=true&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
