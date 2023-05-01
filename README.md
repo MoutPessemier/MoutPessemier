@@ -3,8 +3,8 @@
 ### About me
 
 - 📖: I'm currently studying at the Catholic University Leuven in Belgium.
-- 📸: Photographer
 - 💻: Developer
+- 📸: Photographer
 - 🎥: Cinematographer
 - 🖼: Designer
 - 🏂: I love to sport
